@@ -1,0 +1,11 @@
+Books Details:
+
+Title: Hands-On Data Structure and Algorithms with Python (Store, manipulate, and access data effectively and boost the performance of your applications)
+
+
+Author: Dr. Basant Agarwal
+
+
+Edition: 3rd
+
+Publisher: Packt
